@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+    printf("%d\n", 65*2);
+    printf("%d\n", 65/2);
+    printf("%.1f\n", 65.0/2);
+    printf("%c\n", 65);
+    printf("%x\n", 255);
+
+    return 0;
+
+}
